@@ -2,9 +2,9 @@
 
 My Data Structures and Algorithms practice.
 
-## Folders
+## Profiles
 
-- LeetCode
-- NeetCode
+- Leetcode profile: https://leetcode.com/u/coadb9l0aP/
+- Neetcode profile: https://neetcode.io/user/NimbleMarine612
 
 Practicing problems and learning DSA.
